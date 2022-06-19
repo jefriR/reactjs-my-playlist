@@ -38,7 +38,7 @@ const Playing = () => {
   return (
     <Container fluid className="mt-5">
       <Row className="g-4">
-        <h1 className="text-white">Current Playing...</h1>
+        <h1 className="text-white">Current Playing....</h1>
         <Col sm={8}>
           <Card>
             <Card.Body>
