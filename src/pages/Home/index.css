@@ -1,0 +1,16 @@
+.title {
+    font-size: 4em;
+    color: whitesmoke;
+    font-weight: bold;
+    margin-top: 20%;
+}
+
+.description {
+    text-align: right;
+    font-size: 2em;
+    color: whitesmoke;
+}
+
+.italic {
+    font-style: italic;
+}

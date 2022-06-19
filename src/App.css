@@ -28,6 +28,8 @@
   color: #61dafb;
 }
 
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +37,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.padding-null{
+  padding-left: 0 !important;
+  padding-right: 0px !important;
+}
+
+.primary-background {
+  background-color: #0F1624 !important;
 }
